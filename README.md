@@ -1,7 +1,7 @@
 # R3
 
 # Architecture Base
-    - RestAssured, TestNG & Maven
+    - API Automation Framework using RestAssured, TestNG & Maven
 # Reporting
     - Implemented Extent Reporting for result visualization and Run Summary
 # Logging
