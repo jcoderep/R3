@@ -1,0 +1,9 @@
+2024-04-04 17:37:54.101 [TestNG-test=Exchange Tests-2] INFO  test.java.ExchangeTest - **************** Initiating Validate Currency Count Test ******************
+2024-04-04 17:37:54.101 [TestNG-test=Exchange Tests-1] INFO  test.java.ExchangeTest - **************** Initiating Validate AED Exchange Price Test ******************
+2024-04-04 17:37:54.101 [TestNG-test=Exchange Tests-3] INFO  test.java.ExchangeTest - **************** Initiating Validate Response Time Test ******************
+2024-04-04 17:37:54.101 [TestNG-test=Exchange Tests-4] INFO  test.java.ExchangeTest - **************** Initiating Validate Schema Test ******************
+2024-04-04 17:37:56.735 [TestNG-test=Exchange Tests-2] INFO  test.java.ExchangeTest - **************** Validate Currency Count Test Completed Successfully ******************
+2024-04-04 17:37:56.736 [TestNG-test=Exchange Tests-3] INFO  test.java.ExchangeTest - **************** Validate Response Time Test Completed Successfully ******************
+2024-04-04 17:37:56.735 [TestNG-test=Exchange Tests-1] INFO  test.java.ExchangeTest - USD to AED exchange rate is within range of 3.6 - 3.7
+2024-04-04 17:37:56.736 [TestNG-test=Exchange Tests-1] INFO  test.java.ExchangeTest - **************** Validate AED Exchange Price Test Completed Successfully ******************
+2024-04-04 17:37:57.735 [TestNG-test=Exchange Tests-4] INFO  test.java.ExchangeTest - **************** Validate Schema Test Completed Successfully ******************
